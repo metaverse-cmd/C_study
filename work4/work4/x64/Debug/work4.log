@@ -1,0 +1,4 @@
+﻿  work4.c
+D:\code\c-language-practice\work4\work4\work4.c(438,2): warning C4047: “return”:“int”与“int *”的间接级别不同
+D:\code\c-language-practice\work4\work4\work4.c(469,2): warning C4047: “return”:“int”与“int *”的间接级别不同
+  work4.vcxproj -> D:\code\c-language-practice\work4\x64\Debug\work4.exe
